@@ -19,6 +19,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+
 ## 项目架构与参考
 这个后台基础模板项目主要是参考 github 上的一个项目 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin), 结合自己另一个后台接口基项目[swk-cpanel-vue-api](http://git.swk.hk.cn/swk_base/swk-cpanel-vue-api.git)搭建的.
 
